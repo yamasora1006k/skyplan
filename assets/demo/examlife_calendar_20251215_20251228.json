@@ -1,0 +1,288 @@
+{
+  "scenario": "ExamLife_20251215_1228",
+  "description": "受験生の日常生活デモシナリオ（下宿版）",
+  "events": [
+    {
+      "id": "evt_001",
+      "title": "学校",
+      "start": "2025-12-15T08:30:00",
+      "end": "2025-12-15T15:30:00",
+      "lat": 35.710896,
+      "lng": 140.020215,
+      "locationName": "東葉高校",
+      "tags": [
+        "school",
+        "regular"
+      ],
+      "isOutdoor": false
+    },
+    {
+      "id": "evt_002",
+      "title": "塾",
+      "start": "2025-12-15T17:00:00",
+      "end": "2025-12-15T21:00:00",
+      "lat": 35.709800,
+      "lng": 140.035500,
+      "locationName": "進学塾",
+      "tags": [
+        "juku",
+        "regular"
+      ],
+      "isOutdoor": false
+    },
+    {
+      "id": "evt_003",
+      "title": "学校",
+      "start": "2025-12-16T08:30:00",
+      "end": "2025-12-16T15:30:00",
+      "lat": 35.710896,
+      "lng": 140.020215,
+      "locationName": "東葉高校",
+      "tags": [
+        "school",
+        "regular"
+      ],
+      "isOutdoor": false
+    },
+    {
+      "id": "evt_004",
+      "title": "塾",
+      "start": "2025-12-16T17:00:00",
+      "end": "2025-12-16T21:00:00",
+      "lat": 35.709800,
+      "lng": 140.035500,
+      "locationName": "進学塾",
+      "tags": [
+        "juku",
+        "regular"
+      ],
+      "isOutdoor": false
+    },
+    {
+      "id": "evt_005",
+      "title": "学校",
+      "start": "2025-12-17T08:30:00",
+      "end": "2025-12-17T15:30:00",
+      "lat": 35.710896,
+      "lng": 140.020215,
+      "locationName": "東葉高校",
+      "tags": [
+        "school",
+        "regular"
+      ],
+      "isOutdoor": false
+    },
+    {
+      "id": "evt_006",
+      "title": "塾",
+      "start": "2025-12-17T17:00:00",
+      "end": "2025-12-17T21:00:00",
+      "lat": 35.709800,
+      "lng": 140.035500,
+      "locationName": "進学塾",
+      "tags": [
+        "juku",
+        "regular"
+      ],
+      "isOutdoor": false
+    },
+    {
+      "id": "evt_007",
+      "title": "学校",
+      "start": "2025-12-18T08:30:00",
+      "end": "2025-12-18T15:30:00",
+      "lat": 35.710896,
+      "lng": 140.020215,
+      "locationName": "東葉高校",
+      "tags": [
+        "school",
+        "regular"
+      ],
+      "isOutdoor": false
+    },
+    {
+      "id": "evt_008",
+      "title": "塾",
+      "start": "2025-12-18T17:00:00",
+      "end": "2025-12-18T21:00:00",
+      "lat": 35.709800,
+      "lng": 140.035500,
+      "locationName": "進学塾",
+      "tags": [
+        "juku",
+        "regular"
+      ],
+      "isOutdoor": false
+    },
+    {
+      "id": "evt_009",
+      "title": "学校",
+      "start": "2025-12-19T08:30:00",
+      "end": "2025-12-19T15:30:00",
+      "lat": 35.710896,
+      "lng": 140.020215,
+      "locationName": "東葉高校",
+      "tags": [
+        "school",
+        "regular"
+      ],
+      "isOutdoor": false
+    },
+    {
+      "id": "evt_010",
+      "title": "塾",
+      "start": "2025-12-19T17:00:00",
+      "end": "2025-12-19T21:00:00",
+      "lat": 35.709800,
+      "lng": 140.035500,
+      "locationName": "進学塾",
+      "tags": [
+        "juku",
+        "regular"
+      ],
+      "isOutdoor": false
+    },
+    {
+      "id": "evt_011",
+      "title": "友達と勉強会",
+      "start": "2025-12-20T10:00:00",
+      "end": "2025-12-20T17:00:00",
+      "lat": 35.721033,
+      "lng": 140.044611,
+      "locationName": "友達の家",
+      "tags": [
+        "friend",
+        "study"
+      ],
+      "isOutdoor": false
+    },
+    {
+      "id": "evt_012",
+      "title": "自主学習",
+      "start": "2025-12-21T10:00:00",
+      "end": "2025-12-21T18:00:00",
+      "lat": 35.711500,
+      "lng": 140.025000,
+      "locationName": "自宅",
+      "tags": [
+        "home",
+        "study"
+      ],
+      "isOutdoor": false
+    },
+    {
+      "id": "evt_013",
+      "title": "学校（終業式）",
+      "start": "2025-12-22T08:30:00",
+      "end": "2025-12-22T12:00:00",
+      "lat": 35.710896,
+      "lng": 140.020215,
+      "locationName": "東葉高校",
+      "tags": [
+        "school",
+        "ceremony"
+      ],
+      "isOutdoor": false
+    },
+    {
+      "id": "evt_014",
+      "title": "塾（冬期講習）",
+      "start": "2025-12-23T09:00:00",
+      "end": "2025-12-23T17:00:00",
+      "lat": 35.709800,
+      "lng": 140.035500,
+      "locationName": "進学塾",
+      "tags": [
+        "juku",
+        "intensive"
+      ],
+      "isOutdoor": false
+    },
+    {
+      "id": "evt_015",
+      "title": "塾（冬期講習）",
+      "start": "2025-12-24T09:00:00",
+      "end": "2025-12-24T17:00:00",
+      "lat": 35.709800,
+      "lng": 140.035500,
+      "locationName": "進学塾",
+      "tags": [
+        "juku",
+        "intensive"
+      ],
+      "isOutdoor": false
+    },
+    {
+      "id": "evt_016",
+      "title": "塾（冬期講習）",
+      "start": "2025-12-25T09:00:00",
+      "end": "2025-12-25T17:00:00",
+      "lat": 35.709800,
+      "lng": 140.035500,
+      "locationName": "進学塾",
+      "tags": [
+        "juku",
+        "intensive"
+      ],
+      "isOutdoor": false
+    },
+    {
+      "id": "evt_017",
+      "title": "塾（冬期講習）",
+      "start": "2025-12-26T09:00:00",
+      "end": "2025-12-26T17:00:00",
+      "lat": 35.709800,
+      "lng": 140.035500,
+      "locationName": "進学塾",
+      "tags": [
+        "juku",
+        "intensive"
+      ],
+      "isOutdoor": false
+    },
+    {
+      "id": "evt_018",
+      "title": "友達と息抜き",
+      "start": "2025-12-27T13:00:00",
+      "end": "2025-12-27T18:00:00",
+      "lat": 35.721033,
+      "lng": 140.044611,
+      "locationName": "友達の家",
+      "tags": [
+        "friend",
+        "break"
+      ],
+      "isOutdoor": false
+    },
+    {
+      "id": "evt_019",
+      "title": "大掃除＆自主学習",
+      "start": "2025-12-28T10:00:00",
+      "end": "2025-12-28T18:00:00",
+      "lat": 35.711500,
+      "lng": 140.025000,
+      "locationName": "自宅",
+      "tags": [
+        "home",
+        "cleaning",
+        "study"
+      ],
+      "isOutdoor": false
+    },
+    {
+      "id": "evt_020",
+      "title": "アンデルセン公園でピクニック",
+      "start": "2025-12-28T11:00:00",
+      "end": "2025-12-28T15:00:00",
+      "lat": 35.753300,
+      "lng": 140.063300,
+      "locationName": "ふなばしアンデルセン公園",
+      "tags": [
+        "leisure",
+        "outdoor",
+        "picnic"
+      ],
+      "isOutdoor": true
+    }
+  ]
+}

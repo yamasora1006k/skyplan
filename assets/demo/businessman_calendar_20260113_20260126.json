@@ -1,0 +1,345 @@
+{
+    "scenario": "businessman_funabashi_gaienmae",
+    "description": "船橋市北習志野在住、外苑前勤務の社会人。平日は客先訪問多め、週末は家族サービス。",
+    "demoToday": "2026-01-20",
+    "events": [
+        {
+            "id": "evt_001",
+            "title": "通勤",
+            "start": "2026-01-20T08:00:00",
+            "end": "2026-01-20T09:00:00",
+            "locationName": "北習志野駅→外苑前駅",
+            "lat": 35.6721,
+            "lng": 139.7173,
+            "tags": [
+                "commute"
+            ],
+            "isOutdoor": true
+        },
+        {
+            "id": "evt_002",
+            "title": "朝会",
+            "start": "2026-01-20T09:15:00",
+            "end": "2026-01-20T10:00:00",
+            "locationName": "本社オフィス",
+            "lat": 35.6721,
+            "lng": 139.7173,
+            "tags": [
+                "work",
+                "office"
+            ],
+            "isOutdoor": false
+        },
+        {
+            "id": "evt_003",
+            "title": "クライアントA訪問",
+            "start": "2026-01-20T10:30:00",
+            "end": "2026-01-20T12:00:00",
+            "locationName": "渋谷（ABCコーポレーション）",
+            "lat": 35.6580,
+            "lng": 139.7016,
+            "tags": [
+                "work",
+                "client"
+            ],
+            "isOutdoor": true
+        },
+        {
+            "id": "evt_004",
+            "title": "ランチ",
+            "start": "2026-01-20T12:15:00",
+            "end": "2026-01-20T13:00:00",
+            "locationName": "渋谷駅周辺",
+            "lat": 35.6580,
+            "lng": 139.7016,
+            "tags": [
+                "personal"
+            ],
+            "isOutdoor": true
+        },
+        {
+            "id": "evt_005",
+            "title": "社内ミーティング",
+            "start": "2026-01-20T14:00:00",
+            "end": "2026-01-20T15:30:00",
+            "locationName": "本社オフィス",
+            "lat": 35.6721,
+            "lng": 139.7173,
+            "tags": [
+                "work",
+                "office"
+            ],
+            "isOutdoor": false
+        },
+        {
+            "id": "evt_006",
+            "title": "クライアントB訪問",
+            "start": "2026-01-20T16:00:00",
+            "end": "2026-01-20T17:30:00",
+            "locationName": "新橋（XYZ株式会社）",
+            "lat": 35.6663,
+            "lng": 139.7583,
+            "tags": [
+                "work",
+                "client"
+            ],
+            "isOutdoor": true
+        },
+        {
+            "id": "evt_007",
+            "title": "帰宅",
+            "start": "2026-01-20T18:00:00",
+            "end": "2026-01-20T19:00:00",
+            "locationName": "新橋駅→北習志野駅",
+            "lat": 35.7106,
+            "lng": 140.0511,
+            "tags": [
+                "commute"
+            ],
+            "isOutdoor": true
+        },
+        {
+            "id": "evt_008",
+            "title": "通勤",
+            "start": "2026-01-21T08:00:00",
+            "end": "2026-01-21T09:00:00",
+            "locationName": "北習志野駅→外苑前駅",
+            "lat": 35.6721,
+            "lng": 139.7173,
+            "tags": [
+                "commute"
+            ],
+            "isOutdoor": true
+        },
+        {
+            "id": "evt_009",
+            "title": "終日社内作業",
+            "start": "2026-01-21T09:00:00",
+            "end": "2026-01-21T18:00:00",
+            "locationName": "本社オフィス",
+            "lat": 35.6721,
+            "lng": 139.7173,
+            "tags": [
+                "work",
+                "office"
+            ],
+            "isOutdoor": false
+        },
+        {
+            "id": "evt_010",
+            "title": "帰宅",
+            "start": "2026-01-21T18:30:00",
+            "end": "2026-01-21T19:30:00",
+            "locationName": "外苑前駅→北習志野駅",
+            "lat": 35.7106,
+            "lng": 140.0511,
+            "tags": [
+                "commute"
+            ],
+            "isOutdoor": true
+        },
+        {
+            "id": "evt_011",
+            "title": "通勤",
+            "start": "2026-01-22T08:00:00",
+            "end": "2026-01-22T09:00:00",
+            "locationName": "北習志野駅→外苑前駅",
+            "lat": 35.6721,
+            "lng": 139.7173,
+            "tags": [
+                "commute"
+            ],
+            "isOutdoor": true
+        },
+        {
+            "id": "evt_012",
+            "title": "クライアントC訪問",
+            "start": "2026-01-22T10:00:00",
+            "end": "2026-01-22T12:00:00",
+            "locationName": "品川（テックソリューションズ）",
+            "lat": 35.6284,
+            "lng": 139.7387,
+            "tags": [
+                "work",
+                "client"
+            ],
+            "isOutdoor": true
+        },
+        {
+            "id": "evt_013",
+            "title": "帰宅",
+            "start": "2026-01-22T18:00:00",
+            "end": "2026-01-22T19:00:00",
+            "locationName": "外苑前駅→北習志野駅",
+            "lat": 35.7106,
+            "lng": 140.0511,
+            "tags": [
+                "commute"
+            ],
+            "isOutdoor": true
+        },
+        {
+            "id": "evt_014",
+            "title": "通勤",
+            "start": "2026-01-23T08:00:00",
+            "end": "2026-01-23T09:00:00",
+            "locationName": "北習志野駅→外苑前駅",
+            "lat": 35.6721,
+            "lng": 139.7173,
+            "tags": [
+                "commute"
+            ],
+            "isOutdoor": true
+        },
+        {
+            "id": "evt_015",
+            "title": "来客対応",
+            "start": "2026-01-23T13:00:00",
+            "end": "2026-01-23T15:00:00",
+            "locationName": "本社オフィス（会議室A）",
+            "lat": 35.6721,
+            "lng": 139.7173,
+            "tags": [
+                "work",
+                "office"
+            ],
+            "isOutdoor": false
+        },
+        {
+            "id": "evt_016",
+            "title": "帰宅",
+            "start": "2026-01-23T18:00:00",
+            "end": "2026-01-23T19:00:00",
+            "locationName": "外苑前駅→北習志野駅",
+            "lat": 35.7106,
+            "lng": 140.0511,
+            "tags": [
+                "commute"
+            ],
+            "isOutdoor": true
+        },
+        {
+            "id": "evt_017",
+            "title": "アンデルセン公園でピクニック",
+            "start": "2026-01-24T10:00:00",
+            "end": "2026-01-24T14:00:00",
+            "locationName": "ふなばしアンデルセン公園",
+            "lat": 35.7827,
+            "lng": 140.0331,
+            "tags": [
+                "family",
+                "picnic"
+            ],
+            "isOutdoor": true
+        },
+        {
+            "id": "evt_020",
+            "title": "家族旅行（横浜へ出発）",
+            "start": "2026-01-25T09:00:00",
+            "end": "2026-01-25T11:00:00",
+            "locationName": "北習志野→横浜みなとみらい",
+            "lat": 35.4544,
+            "lng": 139.6318,
+            "tags": [
+                "family",
+                "travel"
+            ],
+            "isOutdoor": true
+        },
+        {
+            "id": "evt_021",
+            "title": "横浜観光",
+            "start": "2026-01-25T11:00:00",
+            "end": "2026-01-25T17:00:00",
+            "locationName": "横浜みなとみらい",
+            "lat": 35.4544,
+            "lng": 139.6318,
+            "tags": [
+                "family",
+                "travel"
+            ],
+            "isOutdoor": true
+        },
+        {
+            "id": "evt_022",
+            "title": "ホテルチェックイン",
+            "start": "2026-01-25T17:00:00",
+            "end": "2026-01-25T18:00:00",
+            "locationName": "横浜ベイホテル",
+            "lat": 35.4544,
+            "lng": 139.6318,
+            "tags": [
+                "family",
+                "travel"
+            ],
+            "isOutdoor": false
+        },
+        {
+            "id": "evt_023",
+            "title": "横浜観光2日目",
+            "start": "2026-01-26T10:00:00",
+            "end": "2026-01-26T14:00:00",
+            "locationName": "横浜中華街",
+            "lat": 35.4422,
+            "lng": 139.6468,
+            "tags": [
+                "family",
+                "travel"
+            ],
+            "isOutdoor": true
+        },
+        {
+            "id": "evt_024",
+            "title": "帰宅",
+            "start": "2026-01-26T15:00:00",
+            "end": "2026-01-26T17:00:00",
+            "locationName": "横浜→北習志野",
+            "lat": 35.7106,
+            "lng": 140.0511,
+            "tags": [
+                "family",
+                "travel"
+            ],
+            "isOutdoor": true
+        },
+        {
+            "id": "evt_025",
+            "title": "息子と公園",
+            "start": "2026-01-18T10:00:00",
+            "end": "2026-01-18T12:00:00",
+            "locationName": "ふなばしアンデルセン公園",
+            "lat": 35.7827,
+            "lng": 140.0331,
+            "tags": [
+                "family"
+            ],
+            "isOutdoor": true
+        },
+        {
+            "id": "evt_026",
+            "title": "買い物",
+            "start": "2026-01-18T14:00:00",
+            "end": "2026-01-18T16:00:00",
+            "locationName": "ららぽーとTOKYO-BAY",
+            "lat": 35.6823,
+            "lng": 139.9859,
+            "tags": [
+                "family"
+            ],
+            "isOutdoor": false
+        },
+        {
+            "id": "evt_027",
+            "title": "息子とサッカー練習",
+            "start": "2026-01-19T09:00:00",
+            "end": "2026-01-19T11:00:00",
+            "locationName": "近所の公園",
+            "lat": 35.7110,
+            "lng": 140.0520,
+            "tags": [
+                "family"
+            ],
+            "isOutdoor": true
+        }
+    ]
+}

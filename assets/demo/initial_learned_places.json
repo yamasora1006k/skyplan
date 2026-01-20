@@ -1,0 +1,36 @@
+{
+    "scenario": "ExamLife_20251215_1228",
+    "description": "初期学習済み場所（低confidence）",
+    "places": [
+        {
+            "type": "home",
+            "lat": 35.711500,
+            "lng": 140.025000,
+            "confidence": 0.35,
+            "evidenceCount": 5,
+            "firstSeen": "2025-12-15T00:00:00",
+            "lastSeen": "2025-12-15T06:00:00",
+            "name": "自宅（下宿）"
+        },
+        {
+            "type": "school",
+            "lat": 35.710896,
+            "lng": 140.020215,
+            "confidence": 0.50,
+            "evidenceCount": 3,
+            "firstSeen": "2025-12-15T08:30:00",
+            "lastSeen": "2025-12-15T15:30:00",
+            "name": "東葉高校"
+        },
+        {
+            "type": "juku",
+            "lat": 35.709800,
+            "lng": 140.035500,
+            "confidence": 0.45,
+            "evidenceCount": 2,
+            "firstSeen": "2025-12-15T17:00:00",
+            "lastSeen": "2025-12-15T21:00:00",
+            "name": "進学塾"
+        }
+    ]
+}

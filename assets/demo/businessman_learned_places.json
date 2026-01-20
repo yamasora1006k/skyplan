@@ -1,0 +1,55 @@
+{
+    "scenario": "businessman_funabashi_gaienmae",
+    "places": [
+        {
+            "id": "place_home",
+            "type": "home",
+            "name": "自宅（北習志野）",
+            "lat": 35.7106,
+            "lng": 140.0511,
+            "confidence": 0.85,
+            "evidenceCount": 30,
+            "lastVisited": "2026-01-20T07:30:00"
+        },
+        {
+            "id": "place_office",
+            "type": "office",
+            "name": "本社オフィス（外苑前）",
+            "lat": 35.6721,
+            "lng": 139.7173,
+            "confidence": 0.80,
+            "evidenceCount": 25,
+            "lastVisited": "2026-01-17T18:00:00"
+        },
+        {
+            "id": "place_station_home",
+            "type": "station",
+            "name": "北習志野駅",
+            "lat": 35.7100,
+            "lng": 140.0500,
+            "confidence": 0.75,
+            "evidenceCount": 20,
+            "lastVisited": "2026-01-17T08:00:00"
+        },
+        {
+            "id": "place_station_work",
+            "type": "station",
+            "name": "外苑前駅",
+            "lat": 35.6718,
+            "lng": 139.7170,
+            "confidence": 0.70,
+            "evidenceCount": 18,
+            "lastVisited": "2026-01-17T09:00:00"
+        },
+        {
+            "id": "place_lalaport",
+            "type": "visited",
+            "name": "ららぽーとTOKYO-BAY",
+            "lat": 35.6823,
+            "lng": 139.9859,
+            "confidence": 0.50,
+            "evidenceCount": 8,
+            "lastVisited": "2026-01-18T16:00:00"
+        }
+    ]
+}

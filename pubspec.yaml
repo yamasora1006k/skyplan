@@ -1,0 +1,47 @@
+name: sky_plan
+description: "SkyPlan - 予定×移動×天気の全自動秘書アプリ"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  
+  # ローカル通知
+  flutter_local_notifications: ^18.0.1
+  
+  # ローカルストレージ
+  path_provider: ^2.1.5
+  
+  # CSVパース
+  csv: ^6.0.0
+  
+  # 日付フォーマット
+  intl: ^0.20.2
+  
+  # タイムゾーン
+  timezone: ^0.10.0
+  
+  # 地図表示（OpenStreetMap）
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+  
+  # API通信
+  http: ^1.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/demo/

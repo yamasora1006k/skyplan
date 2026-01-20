@@ -1,0 +1,29 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.packages
+.pub-cache/
+build/
+flutter_export_environment.sh
+pubspec.lock
+
+# iOS
+ios/Pods/
+ios/Podfile.lock
+DerivedData/
+
+# Android
+**/build/
+.android/
+.gradle/
+local.properties
+
+# VS Code / IDE
+.vscode/
+.idea/
+*.iml
+
+# Generated
+*.generated.dart
+
+# Misc
+.DS_Store
